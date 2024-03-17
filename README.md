@@ -1,1 +1,1 @@
-A more detailed greeting.
+A more detailed greeting. Hello!
